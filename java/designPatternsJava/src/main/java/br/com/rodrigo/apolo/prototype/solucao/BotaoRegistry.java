@@ -8,7 +8,6 @@ import java.util.Map;
 import java.util.Objects;
 
 public class BotaoRegistry {
-    private static BotaoRegistry botaoRegistry;
     private static Map<String, Botao> REGISTRY = new HashMap<>();
 
     static {
@@ -34,14 +33,6 @@ public class BotaoRegistry {
         REGISTRY.put("BOTAO_VERMELHO", botaoVermelho);
         REGISTRY.put("BOTAO_AZUL", botaoAzul);
     }    
-    
-    public static BotaoRegistry getInstance(){
-        if(Objects.isNull(botaoRegistry)){
-            botaoRegistry = new BotaoRegistry();
-            return botaoRegistry;
-        }
-        return botaoRegistry;
-    }
 
     public static Botao getBotao(String chave){
         return BotaoFactory.getInstance(REGISTRY.get(chave));
