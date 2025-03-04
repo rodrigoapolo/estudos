@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HerencaPolimorfismo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+40fa868d81babde0d3aa8c32a0627f175c4c7e91")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+25e41c64aa754adf1ced5e7ae09a106fdae5c797")]
 [assembly: System.Reflection.AssemblyProductAttribute("HerencaPolimorfismo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HerencaPolimorfismo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
