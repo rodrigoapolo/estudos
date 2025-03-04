@@ -1,0 +1,14 @@
+C:\Users\Rodrigo\Documents\estudos\c#\TopicosEspeciais1\TopicosEspeciais1\bin\Debug\net8.0\TopicosEspeciais1.exe
+C:\Users\Rodrigo\Documents\estudos\c#\TopicosEspeciais1\TopicosEspeciais1\bin\Debug\net8.0\TopicosEspeciais1.deps.json
+C:\Users\Rodrigo\Documents\estudos\c#\TopicosEspeciais1\TopicosEspeciais1\bin\Debug\net8.0\TopicosEspeciais1.runtimeconfig.json
+C:\Users\Rodrigo\Documents\estudos\c#\TopicosEspeciais1\TopicosEspeciais1\bin\Debug\net8.0\TopicosEspeciais1.dll
+C:\Users\Rodrigo\Documents\estudos\c#\TopicosEspeciais1\TopicosEspeciais1\bin\Debug\net8.0\TopicosEspeciais1.pdb
+C:\Users\Rodrigo\Documents\estudos\c#\TopicosEspeciais1\TopicosEspeciais1\obj\Debug\net8.0\TopicosEspeciais1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodrigo\Documents\estudos\c#\TopicosEspeciais1\TopicosEspeciais1\obj\Debug\net8.0\TopicosEspeciais1.AssemblyInfoInputs.cache
+C:\Users\Rodrigo\Documents\estudos\c#\TopicosEspeciais1\TopicosEspeciais1\obj\Debug\net8.0\TopicosEspeciais1.AssemblyInfo.cs
+C:\Users\Rodrigo\Documents\estudos\c#\TopicosEspeciais1\TopicosEspeciais1\obj\Debug\net8.0\TopicosEspeciais1.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Documents\estudos\c#\TopicosEspeciais1\TopicosEspeciais1\obj\Debug\net8.0\TopicosEspeciais1.dll
+C:\Users\Rodrigo\Documents\estudos\c#\TopicosEspeciais1\TopicosEspeciais1\obj\Debug\net8.0\refint\TopicosEspeciais1.dll
+C:\Users\Rodrigo\Documents\estudos\c#\TopicosEspeciais1\TopicosEspeciais1\obj\Debug\net8.0\TopicosEspeciais1.pdb
+C:\Users\Rodrigo\Documents\estudos\c#\TopicosEspeciais1\TopicosEspeciais1\obj\Debug\net8.0\TopicosEspeciais1.genruntimeconfig.cache
+C:\Users\Rodrigo\Documents\estudos\c#\TopicosEspeciais1\TopicosEspeciais1\obj\Debug\net8.0\ref\TopicosEspeciais1.dll

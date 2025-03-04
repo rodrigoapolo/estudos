@@ -1,0 +1,14 @@
+C:\Users\Rodrigo\Documents\estudos\c#\ClassMembrosEstaticos\ClassMembrosEstaticos\bin\Debug\net8.0\ClassMembrosEstaticos.exe
+C:\Users\Rodrigo\Documents\estudos\c#\ClassMembrosEstaticos\ClassMembrosEstaticos\bin\Debug\net8.0\ClassMembrosEstaticos.deps.json
+C:\Users\Rodrigo\Documents\estudos\c#\ClassMembrosEstaticos\ClassMembrosEstaticos\bin\Debug\net8.0\ClassMembrosEstaticos.runtimeconfig.json
+C:\Users\Rodrigo\Documents\estudos\c#\ClassMembrosEstaticos\ClassMembrosEstaticos\bin\Debug\net8.0\ClassMembrosEstaticos.dll
+C:\Users\Rodrigo\Documents\estudos\c#\ClassMembrosEstaticos\ClassMembrosEstaticos\bin\Debug\net8.0\ClassMembrosEstaticos.pdb
+C:\Users\Rodrigo\Documents\estudos\c#\ClassMembrosEstaticos\ClassMembrosEstaticos\obj\Debug\net8.0\ClassMembrosEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodrigo\Documents\estudos\c#\ClassMembrosEstaticos\ClassMembrosEstaticos\obj\Debug\net8.0\ClassMembrosEstaticos.AssemblyInfoInputs.cache
+C:\Users\Rodrigo\Documents\estudos\c#\ClassMembrosEstaticos\ClassMembrosEstaticos\obj\Debug\net8.0\ClassMembrosEstaticos.AssemblyInfo.cs
+C:\Users\Rodrigo\Documents\estudos\c#\ClassMembrosEstaticos\ClassMembrosEstaticos\obj\Debug\net8.0\ClassMembrosEstaticos.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Documents\estudos\c#\ClassMembrosEstaticos\ClassMembrosEstaticos\obj\Debug\net8.0\ClassMembrosEstaticos.dll
+C:\Users\Rodrigo\Documents\estudos\c#\ClassMembrosEstaticos\ClassMembrosEstaticos\obj\Debug\net8.0\refint\ClassMembrosEstaticos.dll
+C:\Users\Rodrigo\Documents\estudos\c#\ClassMembrosEstaticos\ClassMembrosEstaticos\obj\Debug\net8.0\ClassMembrosEstaticos.pdb
+C:\Users\Rodrigo\Documents\estudos\c#\ClassMembrosEstaticos\ClassMembrosEstaticos\obj\Debug\net8.0\ClassMembrosEstaticos.genruntimeconfig.cache
+C:\Users\Rodrigo\Documents\estudos\c#\ClassMembrosEstaticos\ClassMembrosEstaticos\obj\Debug\net8.0\ref\ClassMembrosEstaticos.dll

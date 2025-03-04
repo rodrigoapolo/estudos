@@ -1,0 +1,14 @@
+C:\Users\Rodrigo\Documents\estudos\c#\ComportamentoMenoria\ComportamentoMenoria\bin\Debug\net8.0\ComportamentoMenoria.exe
+C:\Users\Rodrigo\Documents\estudos\c#\ComportamentoMenoria\ComportamentoMenoria\bin\Debug\net8.0\ComportamentoMenoria.deps.json
+C:\Users\Rodrigo\Documents\estudos\c#\ComportamentoMenoria\ComportamentoMenoria\bin\Debug\net8.0\ComportamentoMenoria.runtimeconfig.json
+C:\Users\Rodrigo\Documents\estudos\c#\ComportamentoMenoria\ComportamentoMenoria\bin\Debug\net8.0\ComportamentoMenoria.dll
+C:\Users\Rodrigo\Documents\estudos\c#\ComportamentoMenoria\ComportamentoMenoria\bin\Debug\net8.0\ComportamentoMenoria.pdb
+C:\Users\Rodrigo\Documents\estudos\c#\ComportamentoMenoria\ComportamentoMenoria\obj\Debug\net8.0\ComportamentoMenoria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodrigo\Documents\estudos\c#\ComportamentoMenoria\ComportamentoMenoria\obj\Debug\net8.0\ComportamentoMenoria.AssemblyInfoInputs.cache
+C:\Users\Rodrigo\Documents\estudos\c#\ComportamentoMenoria\ComportamentoMenoria\obj\Debug\net8.0\ComportamentoMenoria.AssemblyInfo.cs
+C:\Users\Rodrigo\Documents\estudos\c#\ComportamentoMenoria\ComportamentoMenoria\obj\Debug\net8.0\ComportamentoMenoria.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Documents\estudos\c#\ComportamentoMenoria\ComportamentoMenoria\obj\Debug\net8.0\ComportamentoMenoria.dll
+C:\Users\Rodrigo\Documents\estudos\c#\ComportamentoMenoria\ComportamentoMenoria\obj\Debug\net8.0\refint\ComportamentoMenoria.dll
+C:\Users\Rodrigo\Documents\estudos\c#\ComportamentoMenoria\ComportamentoMenoria\obj\Debug\net8.0\ComportamentoMenoria.pdb
+C:\Users\Rodrigo\Documents\estudos\c#\ComportamentoMenoria\ComportamentoMenoria\obj\Debug\net8.0\ComportamentoMenoria.genruntimeconfig.cache
+C:\Users\Rodrigo\Documents\estudos\c#\ComportamentoMenoria\ComportamentoMenoria\obj\Debug\net8.0\ref\ComportamentoMenoria.dll

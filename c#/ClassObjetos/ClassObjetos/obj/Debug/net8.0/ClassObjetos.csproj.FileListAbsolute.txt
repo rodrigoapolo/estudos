@@ -1,0 +1,14 @@
+C:\Users\Rodrigo\Documents\estudos\c#\ClassObjetos\ClassObjetos\obj\Debug\net8.0\ClassObjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodrigo\Documents\estudos\c#\ClassObjetos\ClassObjetos\obj\Debug\net8.0\ClassObjetos.AssemblyInfoInputs.cache
+C:\Users\Rodrigo\Documents\estudos\c#\ClassObjetos\ClassObjetos\obj\Debug\net8.0\ClassObjetos.AssemblyInfo.cs
+C:\Users\Rodrigo\Documents\estudos\c#\ClassObjetos\ClassObjetos\obj\Debug\net8.0\ClassObjetos.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Documents\estudos\c#\ClassObjetos\ClassObjetos\bin\Debug\net8.0\ClassObjetos.exe
+C:\Users\Rodrigo\Documents\estudos\c#\ClassObjetos\ClassObjetos\bin\Debug\net8.0\ClassObjetos.deps.json
+C:\Users\Rodrigo\Documents\estudos\c#\ClassObjetos\ClassObjetos\bin\Debug\net8.0\ClassObjetos.runtimeconfig.json
+C:\Users\Rodrigo\Documents\estudos\c#\ClassObjetos\ClassObjetos\bin\Debug\net8.0\ClassObjetos.dll
+C:\Users\Rodrigo\Documents\estudos\c#\ClassObjetos\ClassObjetos\bin\Debug\net8.0\ClassObjetos.pdb
+C:\Users\Rodrigo\Documents\estudos\c#\ClassObjetos\ClassObjetos\obj\Debug\net8.0\ClassObjetos.dll
+C:\Users\Rodrigo\Documents\estudos\c#\ClassObjetos\ClassObjetos\obj\Debug\net8.0\refint\ClassObjetos.dll
+C:\Users\Rodrigo\Documents\estudos\c#\ClassObjetos\ClassObjetos\obj\Debug\net8.0\ClassObjetos.pdb
+C:\Users\Rodrigo\Documents\estudos\c#\ClassObjetos\ClassObjetos\obj\Debug\net8.0\ClassObjetos.genruntimeconfig.cache
+C:\Users\Rodrigo\Documents\estudos\c#\ClassObjetos\ClassObjetos\obj\Debug\net8.0\ref\ClassObjetos.dll

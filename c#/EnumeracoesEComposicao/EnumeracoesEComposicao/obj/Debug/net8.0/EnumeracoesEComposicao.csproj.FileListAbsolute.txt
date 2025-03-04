@@ -1,0 +1,14 @@
+C:\Users\Rodrigo\Documents\estudos\c#\EnumeracoesEComposicao\EnumeracoesEComposicao\bin\Debug\net8.0\EnumeracoesEComposicao.exe
+C:\Users\Rodrigo\Documents\estudos\c#\EnumeracoesEComposicao\EnumeracoesEComposicao\bin\Debug\net8.0\EnumeracoesEComposicao.deps.json
+C:\Users\Rodrigo\Documents\estudos\c#\EnumeracoesEComposicao\EnumeracoesEComposicao\bin\Debug\net8.0\EnumeracoesEComposicao.runtimeconfig.json
+C:\Users\Rodrigo\Documents\estudos\c#\EnumeracoesEComposicao\EnumeracoesEComposicao\bin\Debug\net8.0\EnumeracoesEComposicao.dll
+C:\Users\Rodrigo\Documents\estudos\c#\EnumeracoesEComposicao\EnumeracoesEComposicao\bin\Debug\net8.0\EnumeracoesEComposicao.pdb
+C:\Users\Rodrigo\Documents\estudos\c#\EnumeracoesEComposicao\EnumeracoesEComposicao\obj\Debug\net8.0\EnumeracoesEComposicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodrigo\Documents\estudos\c#\EnumeracoesEComposicao\EnumeracoesEComposicao\obj\Debug\net8.0\EnumeracoesEComposicao.AssemblyInfoInputs.cache
+C:\Users\Rodrigo\Documents\estudos\c#\EnumeracoesEComposicao\EnumeracoesEComposicao\obj\Debug\net8.0\EnumeracoesEComposicao.AssemblyInfo.cs
+C:\Users\Rodrigo\Documents\estudos\c#\EnumeracoesEComposicao\EnumeracoesEComposicao\obj\Debug\net8.0\EnumeracoesEComposicao.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Documents\estudos\c#\EnumeracoesEComposicao\EnumeracoesEComposicao\obj\Debug\net8.0\EnumeracoesEComposicao.dll
+C:\Users\Rodrigo\Documents\estudos\c#\EnumeracoesEComposicao\EnumeracoesEComposicao\obj\Debug\net8.0\refint\EnumeracoesEComposicao.dll
+C:\Users\Rodrigo\Documents\estudos\c#\EnumeracoesEComposicao\EnumeracoesEComposicao\obj\Debug\net8.0\EnumeracoesEComposicao.pdb
+C:\Users\Rodrigo\Documents\estudos\c#\EnumeracoesEComposicao\EnumeracoesEComposicao\obj\Debug\net8.0\EnumeracoesEComposicao.genruntimeconfig.cache
+C:\Users\Rodrigo\Documents\estudos\c#\EnumeracoesEComposicao\EnumeracoesEComposicao\obj\Debug\net8.0\ref\EnumeracoesEComposicao.dll

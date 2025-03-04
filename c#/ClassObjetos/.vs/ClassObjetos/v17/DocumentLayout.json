@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rodrigo\\Documents\\estudos\\c#\\ClassObjetos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{910541FF-4BC9-41AB-9DB0-5DF7A7C6BC4E}|ClassObjetos\\ClassObjetos.csproj|c:\\users\\rodrigo\\documents\\estudos\\c#\\classobjetos\\classobjetos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910541FF-4BC9-41AB-9DB0-5DF7A7C6BC4E}|ClassObjetos\\ClassObjetos.csproj|solutionrelative:classobjetos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910541FF-4BC9-41AB-9DB0-5DF7A7C6BC4E}|ClassObjetos\\ClassObjetos.csproj|c:\\users\\rodrigo\\documents\\estudos\\c#\\classobjetos\\classobjetos\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910541FF-4BC9-41AB-9DB0-5DF7A7C6BC4E}|ClassObjetos\\ClassObjetos.csproj|solutionrelative:classobjetos\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rodrigo\\Documents\\estudos\\c#\\ClassObjetos\\ClassObjetos\\Program.cs",
+              "RelativeDocumentMoniker": "ClassObjetos\\Program.cs",
+              "ToolTip": "C:\\Users\\Rodrigo\\Documents\\estudos\\c#\\ClassObjetos\\ClassObjetos\\Program.cs",
+              "RelativeToolTip": "ClassObjetos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T15:46:44.589Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\Rodrigo\\Documents\\estudos\\c#\\ClassObjetos\\ClassObjetos\\Produto.cs",
+              "RelativeDocumentMoniker": "ClassObjetos\\Produto.cs",
+              "ToolTip": "C:\\Users\\Rodrigo\\Documents\\estudos\\c#\\ClassObjetos\\ClassObjetos\\Produto.cs",
+              "RelativeToolTip": "ClassObjetos\\Produto.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T16:19:57.97Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
