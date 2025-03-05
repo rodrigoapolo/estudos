@@ -1,0 +1,14 @@
+C:\Users\Rodrigo\Documents\estudos\c#\TratamentoExececoes\TratamentoExececoes\bin\Debug\net8.0\TratamentoExececoes.exe
+C:\Users\Rodrigo\Documents\estudos\c#\TratamentoExececoes\TratamentoExececoes\bin\Debug\net8.0\TratamentoExececoes.deps.json
+C:\Users\Rodrigo\Documents\estudos\c#\TratamentoExececoes\TratamentoExececoes\bin\Debug\net8.0\TratamentoExececoes.runtimeconfig.json
+C:\Users\Rodrigo\Documents\estudos\c#\TratamentoExececoes\TratamentoExececoes\bin\Debug\net8.0\TratamentoExececoes.dll
+C:\Users\Rodrigo\Documents\estudos\c#\TratamentoExececoes\TratamentoExececoes\bin\Debug\net8.0\TratamentoExececoes.pdb
+C:\Users\Rodrigo\Documents\estudos\c#\TratamentoExececoes\TratamentoExececoes\obj\Debug\net8.0\TratamentoExececoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodrigo\Documents\estudos\c#\TratamentoExececoes\TratamentoExececoes\obj\Debug\net8.0\TratamentoExececoes.AssemblyInfoInputs.cache
+C:\Users\Rodrigo\Documents\estudos\c#\TratamentoExececoes\TratamentoExececoes\obj\Debug\net8.0\TratamentoExececoes.AssemblyInfo.cs
+C:\Users\Rodrigo\Documents\estudos\c#\TratamentoExececoes\TratamentoExececoes\obj\Debug\net8.0\TratamentoExececoes.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Documents\estudos\c#\TratamentoExececoes\TratamentoExececoes\obj\Debug\net8.0\TratamentoExececoes.dll
+C:\Users\Rodrigo\Documents\estudos\c#\TratamentoExececoes\TratamentoExececoes\obj\Debug\net8.0\refint\TratamentoExececoes.dll
+C:\Users\Rodrigo\Documents\estudos\c#\TratamentoExececoes\TratamentoExececoes\obj\Debug\net8.0\TratamentoExececoes.pdb
+C:\Users\Rodrigo\Documents\estudos\c#\TratamentoExececoes\TratamentoExececoes\obj\Debug\net8.0\TratamentoExececoes.genruntimeconfig.cache
+C:\Users\Rodrigo\Documents\estudos\c#\TratamentoExececoes\TratamentoExececoes\obj\Debug\net8.0\ref\TratamentoExececoes.dll

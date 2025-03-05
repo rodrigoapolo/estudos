@@ -5,6 +5,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{28CD765C-E7E8-430B-BA4E-63801B790E2E}|HerencaPolimorfismo\\HerencaPolimorfismo.csproj|c:\\users\\rodrigo\\documents\\estudos\\c#\\herencapolimorfismo\\herencapolimorfismo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28CD765C-E7E8-430B-BA4E-63801B790E2E}|HerencaPolimorfismo\\HerencaPolimorfismo.csproj|solutionrelative:herencapolimorfismo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28CD765C-E7E8-430B-BA4E-63801B790E2E}|HerencaPolimorfismo\\HerencaPolimorfismo.csproj|c:\\users\\rodrigo\\documents\\estudos\\c#\\herencapolimorfismo\\herencapolimorfismo\\entities\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28CD765C-E7E8-430B-BA4E-63801B790E2E}|HerencaPolimorfismo\\HerencaPolimorfismo.csproj|solutionrelative:herencapolimorfismo\\entities\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28CD765C-E7E8-430B-BA4E-63801B790E2E}|HerencaPolimorfismo\\HerencaPolimorfismo.csproj|c:\\users\\rodrigo\\documents\\estudos\\c#\\herencapolimorfismo\\herencapolimorfismo\\entities\\businessaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28CD765C-E7E8-430B-BA4E-63801B790E2E}|HerencaPolimorfismo\\HerencaPolimorfismo.csproj|solutionrelative:herencapolimorfismo\\entities\\businessaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28CD765C-E7E8-430B-BA4E-63801B790E2E}|HerencaPolimorfismo\\HerencaPolimorfismo.csproj|c:\\users\\rodrigo\\documents\\estudos\\c#\\herencapolimorfismo\\herencapolimorfismo\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28CD765C-E7E8-430B-BA4E-63801B790E2E}|HerencaPolimorfismo\\HerencaPolimorfismo.csproj|solutionrelative:herencapolimorfismo\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SavingsAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Rodrigo\\Documents\\estudos\\c#\\HerencaPolimorfismo\\HerencaPolimorfismo\\Entities\\SavingsAccount.cs",
+              "RelativeDocumentMoniker": "HerencaPolimorfismo\\Entities\\SavingsAccount.cs",
+              "ToolTip": "C:\\Users\\Rodrigo\\Documents\\estudos\\c#\\HerencaPolimorfismo\\HerencaPolimorfismo\\Entities\\SavingsAccount.cs",
+              "RelativeToolTip": "HerencaPolimorfismo\\Entities\\SavingsAccount.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T14:33:25.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BusinessAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Rodrigo\\Documents\\estudos\\c#\\HerencaPolimorfismo\\HerencaPolimorfismo\\Entities\\BusinessAccount.cs",
+              "RelativeDocumentMoniker": "HerencaPolimorfismo\\Entities\\BusinessAccount.cs",
+              "ToolTip": "C:\\Users\\Rodrigo\\Documents\\estudos\\c#\\HerencaPolimorfismo\\HerencaPolimorfismo\\Entities\\BusinessAccount.cs",
+              "RelativeToolTip": "HerencaPolimorfismo\\Entities\\BusinessAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T13:57:16.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\Rodrigo\\Documents\\estudos\\c#\\HerencaPolimorfismo\\HerencaPolimorfismo\\Entities\\Account.cs",
+              "RelativeDocumentMoniker": "HerencaPolimorfismo\\Entities\\Account.cs",
+              "ToolTip": "C:\\Users\\Rodrigo\\Documents\\estudos\\c#\\HerencaPolimorfismo\\HerencaPolimorfismo\\Entities\\Account.cs",
+              "RelativeToolTip": "HerencaPolimorfismo\\Entities\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T13:53:44.059Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Rodrigo\\Documents\\estudos\\c#\\HerencaPolimorfismo\\HerencaPolimorfismo\\Program.cs",
               "RelativeDocumentMoniker": "HerencaPolimorfismo\\Program.cs",
-              "ToolTip": "C:\\Users\\Rodrigo\\Documents\\estudos\\c#\\HerencaPolimorfismo\\HerencaPolimorfismo\\Program.cs",
-              "RelativeToolTip": "HerencaPolimorfismo\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Rodrigo\\Documents\\estudos\\c#\\HerencaPolimorfismo\\HerencaPolimorfismo\\Program.cs*",
+              "RelativeToolTip": "HerencaPolimorfismo\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-04T13:37:58.405Z",
               "EditorCaption": ""
