@@ -1,0 +1,14 @@
+C:\Users\Rodrigo\Documents\estudos\c#\ExpressoesLambdaDelegatesLinq\ExpressoesLambdaDelegatesLinq\bin\Debug\net8.0\ExpressoesLambdaDelegatesLinq.exe
+C:\Users\Rodrigo\Documents\estudos\c#\ExpressoesLambdaDelegatesLinq\ExpressoesLambdaDelegatesLinq\bin\Debug\net8.0\ExpressoesLambdaDelegatesLinq.deps.json
+C:\Users\Rodrigo\Documents\estudos\c#\ExpressoesLambdaDelegatesLinq\ExpressoesLambdaDelegatesLinq\bin\Debug\net8.0\ExpressoesLambdaDelegatesLinq.runtimeconfig.json
+C:\Users\Rodrigo\Documents\estudos\c#\ExpressoesLambdaDelegatesLinq\ExpressoesLambdaDelegatesLinq\bin\Debug\net8.0\ExpressoesLambdaDelegatesLinq.dll
+C:\Users\Rodrigo\Documents\estudos\c#\ExpressoesLambdaDelegatesLinq\ExpressoesLambdaDelegatesLinq\bin\Debug\net8.0\ExpressoesLambdaDelegatesLinq.pdb
+C:\Users\Rodrigo\Documents\estudos\c#\ExpressoesLambdaDelegatesLinq\ExpressoesLambdaDelegatesLinq\obj\Debug\net8.0\ExpressoesLambdaDelegatesLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodrigo\Documents\estudos\c#\ExpressoesLambdaDelegatesLinq\ExpressoesLambdaDelegatesLinq\obj\Debug\net8.0\ExpressoesLambdaDelegatesLinq.AssemblyInfoInputs.cache
+C:\Users\Rodrigo\Documents\estudos\c#\ExpressoesLambdaDelegatesLinq\ExpressoesLambdaDelegatesLinq\obj\Debug\net8.0\ExpressoesLambdaDelegatesLinq.AssemblyInfo.cs
+C:\Users\Rodrigo\Documents\estudos\c#\ExpressoesLambdaDelegatesLinq\ExpressoesLambdaDelegatesLinq\obj\Debug\net8.0\ExpressoesLambdaDelegatesLinq.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Documents\estudos\c#\ExpressoesLambdaDelegatesLinq\ExpressoesLambdaDelegatesLinq\obj\Debug\net8.0\ExpressoesLambdaDelegatesLinq.dll
+C:\Users\Rodrigo\Documents\estudos\c#\ExpressoesLambdaDelegatesLinq\ExpressoesLambdaDelegatesLinq\obj\Debug\net8.0\refint\ExpressoesLambdaDelegatesLinq.dll
+C:\Users\Rodrigo\Documents\estudos\c#\ExpressoesLambdaDelegatesLinq\ExpressoesLambdaDelegatesLinq\obj\Debug\net8.0\ExpressoesLambdaDelegatesLinq.pdb
+C:\Users\Rodrigo\Documents\estudos\c#\ExpressoesLambdaDelegatesLinq\ExpressoesLambdaDelegatesLinq\obj\Debug\net8.0\ExpressoesLambdaDelegatesLinq.genruntimeconfig.cache
+C:\Users\Rodrigo\Documents\estudos\c#\ExpressoesLambdaDelegatesLinq\ExpressoesLambdaDelegatesLinq\obj\Debug\net8.0\ref\ExpressoesLambdaDelegatesLinq.dll

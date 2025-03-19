@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rodrigo\\Documents\\estudos\\c#\\SlesWebMvc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15459CEB-90CF-4435-A4AF-F351C817529B}|SlesWebMvc\\SlesWebMvc.csproj|c:\\users\\rodrigo\\documents\\estudos\\c#\\sleswebmvc\\sleswebmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15459CEB-90CF-4435-A4AF-F351C817529B}|SlesWebMvc\\SlesWebMvc.csproj|solutionrelative:sleswebmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15459CEB-90CF-4435-A4AF-F351C817529B}|SlesWebMvc\\SlesWebMvc.csproj|c:\\users\\rodrigo\\documents\\estudos\\c#\\sleswebmvc\\sleswebmvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15459CEB-90CF-4435-A4AF-F351C817529B}|SlesWebMvc\\SlesWebMvc.csproj|solutionrelative:sleswebmvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15459CEB-90CF-4435-A4AF-F351C817529B}|SlesWebMvc\\SlesWebMvc.csproj|c:\\users\\rodrigo\\documents\\estudos\\c#\\sleswebmvc\\sleswebmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15459CEB-90CF-4435-A4AF-F351C817529B}|SlesWebMvc\\SlesWebMvc.csproj|solutionrelative:sleswebmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rodrigo\\Documents\\estudos\\c#\\SlesWebMvc\\SlesWebMvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SlesWebMvc\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Rodrigo\\Documents\\estudos\\c#\\SlesWebMvc\\SlesWebMvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SlesWebMvc\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-10T13:29:19.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rodrigo\\Documents\\estudos\\c#\\SlesWebMvc\\SlesWebMvc\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "SlesWebMvc\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Rodrigo\\Documents\\estudos\\c#\\SlesWebMvc\\SlesWebMvc\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "SlesWebMvc\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-10T13:29:06.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rodrigo\\Documents\\estudos\\c#\\SlesWebMvc\\SlesWebMvc\\Program.cs",
+              "RelativeDocumentMoniker": "SlesWebMvc\\Program.cs",
+              "ToolTip": "C:\\Users\\Rodrigo\\Documents\\estudos\\c#\\SlesWebMvc\\SlesWebMvc\\Program.cs",
+              "RelativeToolTip": "SlesWebMvc\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T12:42:15.435Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
