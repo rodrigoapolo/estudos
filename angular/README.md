@@ -83,3 +83,6 @@ Se o comando retornar um número de versão, o TypeScript foi instalado com suce
 ---
 Agora você está pronto para trabalhar com Node.js, Angular e TypeScript em sua máquina Windows!
 
+
+
+taskkill /f /im node.exe
