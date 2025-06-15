@@ -5,10 +5,9 @@ namespace APICatalogo.Repositories;
 public class UnitOfWork : IUnitOfWork
 {
     private IProdutoRepository? _produtoRepo;
-
     private ICategoriaRepository? _categoriaRepo;
-    public AppDbContext _context;
 
+    public AppDbContext _context;
     public UnitOfWork(AppDbContext context)
     {
         _context = context;
@@ -18,26 +17,24 @@ public class UnitOfWork : IUnitOfWork
     {
         get
         {
-            return _produtoRepo= _produtoRepo ?? new ProdutoRepository(_context);
+            return _produtoRepo = _produtoRepo ?? new ProdutoRepository(_context);
+            //if (_produtoRepo == null)
+            //{
+            //    _produtoRepo = new ProdutoRepository(_context);
+            //}
+            //return _produtoRepo;
         }
     }
-
     public ICategoriaRepository CategoriaRepository
     {
         get
         {
             return _categoriaRepo = _categoriaRepo ?? new CategoriaRepository(_context);
-            //if(_categoriaRepo == null)
-            //{
-            //    _categoriaRepo = new CategoriaRepository(_context);
-            //}
-            //return _categoriaRepo;
         }
     }
-
-    public void Commit()
+    public async Task CommitAsync()
     {
-        _context.SaveChanges();
+        await _context.SaveChangesAsync();
     }
 
     public void Dispose()
