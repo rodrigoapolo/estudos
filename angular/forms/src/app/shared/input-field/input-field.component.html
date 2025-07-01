@@ -1,0 +1,8 @@
+<div [ngClass]="classeCss">
+  <label [attr.for]="id" class="form-label control-label">{{ label }}</label>
+  <input [type]="type"
+    class="form-control" [id]="id" [placeholder]="placeholder" [readOnly]="!!isReadOnly"
+    [(ngModel)]="value">
+  <app-error-msg [control]="control" [label]="label"></app-error-msg>
+</div>
+ <!-- [class.is-invalid]="!formulario.controls['nome'].valid && formulario.controls['nome'].touched" -->
